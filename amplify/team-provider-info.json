@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yellowdesisite-staging-15726-authRole",
+      "UnauthRoleArn": "arn:aws:iam::220209028080:role/amplify-yellowdesisite-staging-15726-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::220209028080:role/amplify-yellowdesisite-staging-15726-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-yellowdesisite-staging-15726-deployment",
+      "UnauthRoleName": "amplify-yellowdesisite-staging-15726-unauthRole",
+      "StackName": "amplify-yellowdesisite-staging-15726",
+      "StackId": "arn:aws:cloudformation:us-east-1:220209028080:stack/amplify-yellowdesisite-staging-15726/f3081c20-9de5-11ed-947d-0a28ea9bf063",
+      "AmplifyAppId": "d2fl140errr1ve"
+    },
+    "categories": {
+      "auth": {
+        "YellowDesisite": {}
+      }
+    }
+  }
+}
